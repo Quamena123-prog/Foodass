@@ -1,6 +1,7 @@
 # fudapp
 
 A new Flutter project.
+Link to the figma file: https://www.figma.com/design/6kOzbh5qTdrE9egADOpO16/FOODDAS?node-id=0-1&t=r4r9aYpY15FoO3Sa-1
 
 ## Getting Started
 
